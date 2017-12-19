@@ -33,6 +33,10 @@ p {
   text-decoration: underline;
 }
 
-.copyright {
+footer {
+  font-family: Verdana;
+  font-size: 21px;
+  font-weight: normal;
+  color: gray;
   text-align: right;
 }
